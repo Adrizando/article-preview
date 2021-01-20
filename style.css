@@ -1,0 +1,35 @@
+body {Font size: 13px;
+
+background-color: hsla(217, 19%, 35%,0.25)
+}
+
+
+.paket { display: flex;
+  margin: auto;
+  max-width: 900px;
+}
+
+img {
+
+}
+
+.rechts {
+flex: 1
+flex-direction: column;
+background-color: hsl(217, 19%, 35%)}
+
+h1 {
+flex:1;
+padding: 10px;}
+
+p   {padding: 10px;}
+
+
+.oben-text {
+  flex: 1
+background-color: beige}
+.unten-text { padding: 10px;
+
+  display: flex;
+  justify-content: space-around;
+background-color: beige}
